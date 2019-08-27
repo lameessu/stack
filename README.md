@@ -4,6 +4,7 @@ It contains a notebook that has all of the analysis that the blog post is based 
 
 The analysis answers three questions:
 
+
 Which languages were the most popular for each year? Javascript for all years
 Which countries had the most survey respondents in each year? United States for all years
  What is the ratio of women compared to the men for each year? 
@@ -11,3 +12,6 @@ Which countries had the most survey respondents in each year? United States for 
 2018    0.067695
 2019    0.081418
  
+ 
+# Blogpost
+https://medium.com/@evilchococookie_34589/stackoverflow-survey-over-the-years-3f93cbae6c29
