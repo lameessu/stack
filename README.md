@@ -14,7 +14,7 @@ The analysis answers three questions:
 In regards to the most popular development language, we find from the survey that most users use Java script, SQL, and Java. In 2018, HTML is the most popular language, while Java script is the most popular in 2017 and 2019.
 #### Which countries had the most survey respondents in each year?
 For all of the years, majority of the respondents are from the United States. You can see that most of the users orginiate from India, Germany, the United Kingdom.
-### What is the number of women compared to the men for each year?
+#### What is the number of women compared to the men for each year?
 When breaking down the respondents by gender, we find the Male users outnumber the Female user-base. However, the number of Females are steadily increasing over the years.
  
  
